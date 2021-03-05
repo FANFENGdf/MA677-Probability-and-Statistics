@@ -1,0 +1,57 @@
+---
+title: "CTL_Assignment"
+author: "Fan Feng"
+date: "2021/3/5"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Problem 1 
+A machine produces rope at a mean rate of mean of 4 feet per minute with standard
+deviation of 5 inches. Assume that the amounts produced in different minutes are independent and
+identically distributed, approximate the probability that the machine will produce at least 250 feet
+in one hour.
+```{r}
+
+```
+
+
+#Problem 2 
+Assume that the distribution of the number of defects on any given bolt of cloth
+is the Poisson distribution with mean 5, and the number of defects on each bolt is counted for a
+random sample of 125 bolts. Determine the probability that the average number of defects per bolt
+in the sample will be less than 5.5 defects per bolt.
+```{r}
+
+```
+
+
+#Problem 3 
+Suppose that the proportion of defective items in a large manufactured lot is 0.1.
+What is the smallest random sample of items that must be taken from the lot in order for the
+probability to be at least 0.99 that the proportion of defective items in the sample will be less than
+0.13?
+```{r}
+
+```
+
+#Problem 4 
+Suppose that 16 digits are chosen at random with replacement from the set 0, . . . , 9.
+What is the probability that their average will lie between 4 and 6?
+```{r}
+
+```
+
+#Problem 5 
+Select a skewed distribution from which to sample. Using R, demonstrate the
+convergence of the mean value of your samples to the Normal distribution. Assume you are making
+this demonstration to someone who has little or no statistical training. Your demonstration should
+take no more than 10 minutes. Along with your code, outline the commentary you would use in
+your demonstration.
+```{r}
+
+```
+
